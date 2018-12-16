@@ -6,7 +6,7 @@
 /* for href="#" links */
 .anchor{
     display: block;
-    height: 350px; /*same height as header*/
-    margin-top: -350px; /*same height as header*/
+    height: 200px; /*same height as header*/
+    margin-top: -200px; /*same height as header*/
     visibility: hidden;
   }
