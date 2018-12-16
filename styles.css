@@ -1,12 +1,12 @@
 .parallax-window {
     display: flex;
-    min-height: 670px;
+    min-height: 100vh;
 }
 
 /* for href="#" links */
 .anchor{
     display: block;
-    height: 200px; /*same height as header*/
-    margin-top: -200px; /*same height as header*/
+    height: 30vh; /*same height as header*/
+    margin-top: -30vh; /*same height as header*/
     visibility: hidden;
   }
