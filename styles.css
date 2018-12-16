@@ -1,5 +1,4 @@
 .parallax-window {
-    display: flex;
     min-height: 100vh;
 }
 
@@ -9,4 +8,8 @@
     height: 30vh; /*same height as header*/
     margin-top: -30vh; /*same height as header*/
     visibility: hidden;
-  }
+}
+
+.vertical-center {
+    padding-top: 40vh;
+}
