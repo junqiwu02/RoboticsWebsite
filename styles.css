@@ -1,3 +1,4 @@
 .parallax-window {
-    min-height: 500px;
+    display: flex;
+    min-height: 670px;
 }
